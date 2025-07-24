@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alejandro+Lopez+%F0%9F%91%8B+%F0%9F%98%8E;Backend+Engineer+%F0%9F%92%BB+%7C+Java+%7C+Kotlin;Building+awesome+projects+on+GitHub+%F0%9F%90%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alejandro+López+%F0%9F%91%8B+%F0%9F%98%8E;Backend+Engineer+%F0%9F%92%BB+%7C+Java+%7C+Kotlin;Building+awesome+projects+on+GitHub+%F0%9F%90%99" alt="Typing SVG" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ mindmap
 
 ---
 
-## 📌 Pinned Projects (Visual Cards)
+## 📌 Pinned Projects
 
 <p align="center">
   <a href="https://github.com/lex-lopez/e-commerce-app">
