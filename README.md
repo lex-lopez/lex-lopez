@@ -49,10 +49,10 @@ mindmap
 
 <p align="center">
   <a href="https://github.com/lex-lopez/e-commerce-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lex-lopez&repo=e-commerce-app&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_latte" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lex-lopez&repo=e-commerce-app&show_icons=true&hide=contribs,prs&cache_seconds=86400&margin-h=80&theme=catppuccin_latte" />
   </a>
   <a href="https://github.com/lex-lopez/event-driven-kafka-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lex-lopez&repo=event-driven-kafka-store&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_latte" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lex-lopez&repo=event-driven-kafka-store&show_icons=true&hide=contribs,prs&cache_seconds=86400&margin-h=80&theme=catppuccin_latte" />
   </a>
 </p>
 
@@ -61,12 +61,12 @@ mindmap
 ## 📊 GitHub Stats & Visuals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lex-lopez&show_icons=true&theme=radical&hide=stars" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lex-lopez&layout=compact&theme=radical&hide=html,css" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lex-lopez&show_icons=true&theme=shadow_blue&hide=stars" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lex-lopez&layout=compact&theme=shadow_blue&hide=html,css" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lex-lopez&theme=radical&column=6&margin-w=10&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lex-lopez&theme=shadow_blue&column=6&margin-w=10&margin-h=15"/>
 </p>
 
 <p align="center">
