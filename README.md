@@ -28,7 +28,8 @@ mindmap
       SNS / SQS
     Data Engineering 🔥
       Apache Spark
-      SQL (PostgreSQL, MySQL)
+      Apache Airflow
+      SQL
     System Design 🏗️
       Scalability
       Microservices
